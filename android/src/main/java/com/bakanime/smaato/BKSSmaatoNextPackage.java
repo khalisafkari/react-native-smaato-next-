@@ -17,6 +17,7 @@ public class BKSSmaatoNextPackage implements ReactPackage {
       List<NativeModule> modules = new ArrayList<>();
       modules.add(new BLSSmaatoLibs(reactContext));
       modules.add(new BLSSmaatoIntertititalManager(reactContext));
+      modules.add(new BLSSmaatoReward(reactContext));
       return modules;
     }
 
