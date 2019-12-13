@@ -21,7 +21,7 @@ public class BLSSmaatoLibs extends ReactContextBaseJavaModule implements Lifecyc
 
     @Override
     public String getName() {
-        return null;
+        return "TohkaLib";
     }
 
     @ReactMethod
