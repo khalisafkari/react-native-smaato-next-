@@ -2,7 +2,7 @@
   "name": "react-native-smaato-next",
   "title": "React Native Smaato Next",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "Smaato Ads Next Generation for React Native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +16,8 @@
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "khalis afkari",
+    "email": "khalis411@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",

@@ -1,5 +1,7 @@
-import { requireNativeComponent } from 'react-native';
+// import { requireNativeComponent } from 'react-native';
 
-const BKSSmaatoNext = requireNativeComponent('BKSSmaatoNext', null);
+// const BKSSmaatoNext = requireNativeComponent('BKSSmaatoNext', null);
 
-export default BKSSmaatoNext;
+// export default BKSSmaatoNext;
+
+export {default as BannerView} from './src/BannarView'
